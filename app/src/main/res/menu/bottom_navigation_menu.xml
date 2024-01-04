@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_day_schedule"
+        android:title="@string/day_navigation_title"
+        android:icon="@drawable/schedule_day_icon"/>
+
+    <item
+        android:id="@+id/navigation_week_schedule"
+        android:title="@string/week_navigation_title"
+        android:icon="@drawable/schedule_week_icon"/>
+</menu>

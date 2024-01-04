@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lesson 1410</string>
+    <string name="week_navigation_title">Неделя</string>
+    <string name="day_navigation_title">Сегодня</string>
+    <string name="first_week_title">Первая</string>
+    <string name="second_week_title">Вторая</string>
+</resources>
